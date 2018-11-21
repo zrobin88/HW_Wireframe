@@ -34,10 +34,11 @@ section{
 aside{
     position: relative;
     height: 400px;
-    width: 40%;
+    width: 45%;
     border: solid black;
     background: rgb(24, 23, 23);
-    left: 496;
+   float:right;
+   
     bottom: 600;
     line-height: 2; 
 }
