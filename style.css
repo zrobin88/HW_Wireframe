@@ -1,0 +1,8 @@
+body {
+background-color: crimson;
+opacity: "0.5";
+}
+border{
+    margin: 0 auto;
+	border: 10px outset #ddd;
+}
