@@ -1,0 +1,33 @@
+h1{
+    text-align: center; 
+    color: gray; 
+    font-family: auto;
+}
+h2{
+    padding: 10px;
+    text-align: center;
+    color: gray; 
+    font-family: auto;
+}
+
+h3{
+    color: whitesmoke; 
+    text-align:center; 
+    position: relative;
+    top: -10px;
+    font-family: auto;
+}
+
+h4{
+    font-family: auto;
+    font-size: 24px;
+    padding-left: 455px;
+    color: rgb(116, 115, 115);
+}
+
+
+p
+{
+    color:gray;
+    font-family: auto;
+}
